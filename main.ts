@@ -4,7 +4,7 @@
 
 import inquirer from "inquirer";
 
-console.log("\n\tWelcome to qareerulain -CLI-number-guessing-game\n\t");
+console.log("\n\tWelcome to qareerulain -bmi calculator\n\t");
 
 const answer = await inquirer.prompt([
     {
